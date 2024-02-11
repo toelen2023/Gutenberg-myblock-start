@@ -1,0 +1,13 @@
+{
+    "apiVersion": 2,
+    "name": "genius/myblock",
+    "title": "My Block",
+    "description": "Gutenberg Block",
+    "category": "text",
+    "icon": "admin-customizer",
+    "textdomain": "myblock",
+    "editorScript": "file:./build/index.js",
+    "editorStyle": "file:./build/index.css",
+    "style": "file:./build/style-index.css"
+
+}
