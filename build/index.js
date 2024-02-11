@@ -24,7 +24,7 @@ function edit() {
   const blockProps = (0,_wordpress_block_editor__WEBPACK_IMPORTED_MODULE_1__.useBlockProps)();
   return (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)("h1", {
     ...blockProps
-  }, "Edit 123");
+  }, "Edit My Block");
 }
 
 /***/ }),
@@ -72,7 +72,7 @@ function save() {
   const blockProps = _wordpress_block_editor__WEBPACK_IMPORTED_MODULE_1__.useBlockProps.save();
   return (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)("h1", {
     ...blockProps
-  }, "Save 2");
+  }, "Save My Block");
 }
 
 /***/ }),

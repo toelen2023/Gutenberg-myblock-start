@@ -1,6 +1,9 @@
 $color: green; 
-.wp-block-genius-myblock {
-    font-size:100px;
+.wp-block-myplugin-myblock {
+    font-size: 32px;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 20px;
     background: $color; 
-    
 }

@@ -3,5 +3,5 @@ import "./editor.scss";
 
 export default function edit () {
   const blockProps = useBlockProps();
-  return <h1 {...blockProps}>Edit 123</h1>;
+  return <h1 {...blockProps}>Edit My Block</h1>;
 }
