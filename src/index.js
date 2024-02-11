@@ -4,7 +4,7 @@ import Save from './save';
 import "./style.scss";
 
 
-registerBlockType( 'genius/myblock', {
+registerBlockType( 'myplugin/myblock', {
 	edit: Edit,
 	save: Save
 } );

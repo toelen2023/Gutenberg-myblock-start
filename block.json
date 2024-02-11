@@ -1,6 +1,6 @@
 {
     "apiVersion": 2,
-    "name": "genius/myblock",
+    "name": "myplugin/myblock",
     "title": "My Block",
     "description": "Gutenberg Block",
     "category": "text",

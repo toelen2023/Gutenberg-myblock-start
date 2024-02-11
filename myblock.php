@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: My Block
- * Plugin URI: https://geniuscourses.com
+ * Plugin URI: https://somesite.com
  * Description: Gutenberg Block
- * Author: Alex Sochirca
- * Author URI: https://geniuscourses.com
+ * Author: Name Lasname
+ * Author URI: https://somesite.com/about
  */
 
- function genius_myblock_init(){
+ function myplugin_myblock_init(){
     register_block_type_from_metadata( __DIR__ );
  }
- add_action('init','genius_myblock_init');
+ add_action('init','myplugin_myblock_init');
